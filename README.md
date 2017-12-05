@@ -2,7 +2,7 @@
 
 This is a repository for Winningtemp candidate tests. It is intended to provide insight into the range of your skill set. It is not a pass/fail test. Please do what you can.
 
-**Guidlines for submitting your test:**
+**Guidelines for submitting your test:**
 
 - Read the instructions
 - Do the tasks
