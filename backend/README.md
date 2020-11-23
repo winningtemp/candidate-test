@@ -22,17 +22,16 @@ Your city has decided to implement toll fees for vechicles in order to reduce tr
    day (SEK = swedish currency)
  - Rush-hour traffic will render the highest fee. The fee that you have
    to pay is based on these hours:
-06:00–06:29, 9 SEK
-06:30–06:59, 16 SEK
-07:00–07:59, 22 SEK
-08:00–08:29, 16 SEK
-08:30–14:59, 9 SEK
-15:00–15:29, 16 SEK
-15:30–16:59, 22 SEK
-17:00–17:59, 16 SEK
-18:00–18:29, 9 SEK
-18:30–05:59, 0 SEK
-
+ - 06:00–06:29, 9 SEK
+ - 06:30–06:59, 16 SEK
+ - 07:00–07:59, 22 SEK
+ - 08:00–08:29, 16 SEK
+ - 08:30–14:59, 9 SEK
+ - 15:00–15:29, 16 SEK
+ - 15:30–16:59, 22 SEK
+ - 17:00–17:59, 16 SEK
+ - 18:00–18:29, 9 SEK
+ - 18:30–05:59, 0 SEK
  - The maximum fee for one day is 60 SEK
  - A vehicle should only be charged once an hour
  - Some vehicle types are toll-free (meaning they don't have have any fee)
