@@ -34,7 +34,7 @@ Re-implement this design with your own HTML and CSS.
 		 - No value: #cccccc
 
 #### Task 2
-Implement your design in javascript using whatever framework you like (React, Angular, vue.js, jquery, plain javascript). 
+Implement your solution using any combinaion of React, Typescript and/or plain Javascript.
 
 **Requirements:**
 
